@@ -82,3 +82,147 @@ git checkout -b feature/your-feature-name
 git push origin feature/your-feature-name
 # Open PR on GitHub
 ```
+
+---
+
+## Portfolio Organization with Order/Chaos Repos
+
+### Repository Philosophy
+
+**order/** - Production-ready, polished projects
+- Clean commit history
+- Complete documentation
+- Portfolio-worthy code
+- Proper testing
+- Examples: completed courses, final projects, showcases
+
+**chaos/** - Experimental, learning, work-in-progress
+- Draft iterations
+- Learning experiments
+- Incomplete projects
+- Quick prototypes
+- Examples: tutorials-in-progress, abandoned ideas, sandbox
+
+### Setup Order and Chaos Parent Repos
+
+```bash
+# Create order repo (for organized projects)
+mkdir -p ~/order
+cd ~/order
+git init
+cat > README.md << 'README'
+# Order - Organized Code Portfolio
+
+Portfolio-ready projects with clean structure and documentation.
+
+## Projects
+
+- [c-intro-50-smc](c-intro-50-smc/) - Introduction to C Programming (Santa Monica College)
+- [web-projects](web-projects/) - Web development portfolio
+- [data-structures](data-structures/) - Algorithm implementations
+
+Each project is a git submodule with its own repository.
+README
+
+git add .
+git commit -m "chore: initialize order portfolio structure"
+git remote add origin git@github.com:vibemeistert/order.git
+git branch -M main
+git push -u origin main
+
+# Create chaos repo (for experiments)
+mkdir -p ~/chaos
+cd ~/chaos
+git init
+cat > README.md << 'README'
+# Chaos - Experimental Code Sandbox
+
+Work-in-progress, learning experiments, and draft iterations.
+
+Not production-ready - for exploration and rapid prototyping.
+
+## In Progress
+
+- Tutorial drafts
+- Learning exercises
+- Abandoned ideas (for reference)
+- Quick prototypes
+
+Private by default.
+README
+
+git add .
+git commit -m "chore: initialize chaos sandbox"
+git remote add origin git@github.com:vibemeistert/chaos.git
+git branch -M main
+git push -u origin main
+```
+
+### Add Project as Submodule to Order
+
+```bash
+# After creating c-intro-50-smc repo
+cd ~/order
+git submodule add git@github.com:vibemeistert/c-intro-50-smc.git
+git commit -m "feat: add c-intro-50-smc course as submodule"
+git push origin main
+```
+
+### Working with Submodules
+
+**Clone order repo with all submodules:**
+```bash
+git clone --recursive git@github.com:vibemeistert/order.git
+```
+
+**Update a submodule:**
+```bash
+cd ~/order/c-intro-50-smc
+git checkout main
+git pull origin main
+cd ~/order
+git add c-intro-50-smc
+git commit -m "chore: update c-intro-50-smc to latest"
+git push origin main
+```
+
+**Work in submodule normally:**
+```bash
+cd ~/order/c-intro-50-smc
+git checkout -b feature/final-exam
+# ... make changes ...
+git add .
+git commit -m "feat: complete final exam problem 1"
+git push origin feature/final-exam
+```
+
+### Moving Projects Between Chaos and Order
+
+When a project graduates from chaos to order:
+
+```bash
+# 1. Push final version to its own repo
+cd ~/chaos/experimental-project
+git remote set-url origin git@github.com:vibemeistert/experimental-project.git
+git push -u origin main
+
+# 2. Remove from chaos
+cd ~/chaos
+git rm experimental-project
+git commit -m "chore: graduate experimental-project to order"
+
+# 3. Add to order
+cd ~/order
+git submodule add git@github.com:vibemeistert/experimental-project.git
+git commit -m "feat: add graduated experimental-project"
+git push origin main
+```
+
+### Benefits
+
+1. **Clear separation** - experiments don't clutter portfolio
+2. **Portfolio showcase** - order repo = clean GitHub profile
+3. **Submodules** - each project has independent history
+4. **Flexibility** - move projects between chaos/order as they mature
+5. **Backup** - both chaos and order backed up to GitHub
+
