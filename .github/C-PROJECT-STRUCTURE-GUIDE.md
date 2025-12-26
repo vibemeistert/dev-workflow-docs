@@ -397,50 +397,72 @@ test-results/
 
 ---
 
-## Progressive Learning Path
+## Progressive Learning Path (8-Week Course)
 
-### Week 1-3: Level 1 (Single files)
+### Week 1-2: Level 1 (Single files)
 - Get comfortable with C syntax
 - Learn compilation basics
 - Manual gcc commands
+- **HW1, Quiz 1** (6+8 simple problems)
 
-### Week 4-6: Level 2 (Headers introduced)
+### Week 3-4: Level 2 (Conditionals, loops, headers)
+- Control flow (if/else, switch, loops)
 - Separate interface from implementation
 - Learn about header guards
-- Introduce simple Makefiles
+- **HW2, Quiz 2** (conditionals/loops)
 
-### Week 7-9: Level 3 (Module organization)
-- Organize code into directories
-- Understand include paths
+### Week 5: Level 3 (Arrays, complex programs)
+- 2D arrays and algorithms
+- Module organization with include/src
+- Introduce proper Makefiles
+- **HW3** (Conway's Game of Life)
+
+### Week 6: Level 3 (Data structures)
+- Linked lists, pointers
+- Header/source file split
 - Build systems for scalability
+- **HW4, Midterm** (linked lists)
 
-### Week 10-12: Level 4 (Testing + multi-binary)
-- Write unit tests
-- Multiple executables
-- Automated build workflows
+### Week 7: Level 4 (Structs, file I/O)
+- Complex data structures
+- File operations
+- Multi-file projects
+- **HW5** (bitcoin simulator), **HW6** (file I/O)
 
-### Week 13+: Level 5 (Libraries)
-- Reusable components
-- Static/dynamic linking
-- Professional project structure
+### Week 8: Level 4 (Integration)
+- Pull everything together
+- Review and practice
+- **Final Exam** (20 problems covering all concepts)
 
 ---
 
-## Application to c-intro-50-smc
+## Application to c-intro-50-smc (8-Week Course)
 
 Based on extracted data, here's the recommended structure per assignment:
 
 ```
-001-homework-1/         # Level 1 - No Makefile (6 simple problems)
-001-quiz-1/             # Level 1 - No Makefile (8 quiz problems)
-002-homework-2/         # Level 1 - No Makefile (loops/conditionals)
-002-quiz-2/             # Level 1 - No Makefile
-003-homework-3/         # Level 3 - Yes Makefile (Conway, complex)
-004-homework-4/         # Level 3 - Yes Makefile (linked lists, header/source)
-005-homework-5/         # Level 4 - Yes Makefile (bitcoin, structs, tests)
-006-homework-6/         # Level 2 - Yes Makefile (file I/O)
-004-midterm/            # Level 2 - Yes Makefile
-008-final/              # Level 3/4 - Yes Makefile (20 problems, some complex)
+Week 1-2:
+  00-checkin/           # Level 1 - No Makefile
+  001-homework-1/       # Level 1 - No Makefile (6 simple problems)
+  001-quiz-1/           # Level 1 - No Makefile (8 quiz problems)
+
+Week 3-4:
+  002-homework-2/       # Level 1 - No Makefile (loops/conditionals)
+  002-quiz-2/           # Level 1 - No Makefile
+
+Week 5:
+  003-homework-3/       # Level 3 - Yes Makefile (Conway, 2D arrays)
+
+Week 6:
+  004-homework-4/       # Level 3 - Yes Makefile (linked lists, header/source)
+  004-midterm/          # Level 2 - Yes Makefile
+
+Week 7:
+  005-homework-5/       # Level 4 - Yes Makefile (bitcoin, structs, iterations)
+  006-homework-6/       # Level 2 - Yes Makefile (file I/O)
+
+Week 8:
+  008-final/            # Level 3/4 - Yes Makefile (20 problems, all topics)
 ```
 
-This scales your learning from simple to complex naturally.
+This scales your learning from simple to complex naturally over 8 weeks.
