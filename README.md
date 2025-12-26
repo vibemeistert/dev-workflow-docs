@@ -20,10 +20,11 @@ Universal coding standards, Git workflows, and code consolidation strategies for
 **New to this repo?** Start here:
 
 1. **[[1704067200000-GIT-WORKFLOW]]** — Fork→branch→commit→push workflow (5 min read)
-2. **[[1704070800000-NAMING-CONVENTIONS]]** — Universal standards (3 min read)  
+2. **[[1704070800000-NAMING-CONVENTIONS]]** — Universal standards (3 min read)
 3. **[[1704074400000-CODE-LIBRARY-GUIDE]]** — Folder structure & strategy (10 min read)
 
 **Moving projects from chaos → order?** Follow:
+
 - **[[1704081600000-QUICK-CONSOLIDATION]]** — Rapid checklist
 - **[[1704085200000-CONSOLIDATION-ROADMAP]]** — Full 6-phase walkthrough
 
@@ -32,8 +33,9 @@ Universal coding standards, Git workflows, and code consolidation strategies for
 ---
 
 ## 📚 Core Workflows (Daily Reference)\n\nEssential guides you'll reference repeatedly (sorted chronologically by epoch ID):\n\n| Epoch ID | Guide | Purpose | When to Use |\n|----------|-------|---------|------------|
+
 | `1704067200000` | **[[1704067200000-GIT-WORKFLOW]]** | SSH setup, fork→branch→commit→push, commit cadence | Before starting any project |
-| `1704070800000` | **[[1704070800000-NAMING-CONVENTIONS]]** | Branch, commit, repo, file, variable naming across C/Python/JS | When naming anything |
+| `1704070800000` | **[[1704070800000-NAMING-CONVENTIONS]]** | Branch, commit, repo, file, variable naming across C/Python/JS; **K&R standards for C** | When naming anything |
 | `1704074400000` | **[[1704074400000-CODE-LIBRARY-GUIDE]]** | `~/code-library/` structure, per-course strategy, cleanup | Planning repo layouts |
 | `1704078000000` | **[[1704078000000-GITIGNORE-HIERARCHY]]** | DRY cascading `.gitignore`, zero duplication | Setting up new repos |
 
@@ -43,9 +45,9 @@ Universal coding standards, Git workflows, and code consolidation strategies for
 
 Use these when consolidating scattered code into unified structure:
 
-| Epoch ID | Guide | Purpose | Phase |
-|----------|-------|---------|-------|
-| `1704081600000` | **[[1704081600000-QUICK-CONSOLIDATION]]** | Condensed checklist for rapid execution | Overview (5 min) |
+| Epoch ID        | Guide                                       | Purpose                                                           | Phase                  |
+| --------------- | ------------------------------------------- | ----------------------------------------------------------------- | ---------------------- |
+| `1704081600000` | **[[1704081600000-QUICK-CONSOLIDATION]]**   | Condensed checklist for rapid execution                           | Overview (5 min)       |
 | `1704085200000` | **[[1704085200000-CONSOLIDATION-ROADMAP]]** | Complete 6-phase: audit→dedup→categorize→consolidate→git→maintain | Step-by-step (60+ min) |
 
 ---
@@ -54,11 +56,12 @@ Use these when consolidating scattered code into unified structure:
 
 Reference material for organized learning:
 
-| Epoch ID | Guide | Course | Content |
-|----------|-------|--------|---------|
-| `1704088800000` | **[[1704088800000-C-COURSE-QUICKSTART]]** | SMC CS50 (Intro C) | Setup & assignment workflow |
-| `1704092400000` | **[[1704092400000-C-COURSE-SESSION-CONTEXT]]** | SMC CS50 (Intro C) | Session notes & integration points |
-| `1704096000000` | **[[1704096000000-C-PROJECT-STRUCTURE-GUIDE]]** | C (Any) | Assignment & project organization |
+| Epoch ID        | Guide                                           | Course             | Content                            |
+| --------------- | ----------------------------------------------- | ------------------ | ---------------------------------- |
+| `1704088800000` | **[[1704088800000-C-COURSE-QUICKSTART]]**       | SMC CS50 (Intro C) | Setup & assignment workflow        |
+| `1704092400000` | **[[1704092400000-C-COURSE-SESSION-CONTEXT]]**  | SMC CS50 (Intro C) | Session notes & integration points |
+| `1704096000000` | **[[1704096000000-C-PROJECT-STRUCTURE-GUIDE]]** | C (Any)            | Assignment & project organization  |
+| `1704120000000` | **[[1704120000000-C-INTRO-PRODUCTION-STRUCTURE]]** | SMC CS50 (Intro C) | File organization & structure legend |
 
 ---
 
@@ -66,10 +69,10 @@ Reference material for organized learning:
 
 Use when you need specific details:
 
-| Epoch ID | Document | Use Case |
-|----------|----------|----------|
-| `1704099600000` | **[[1704099600000-C-CLASS-EXTRACTION-SCHEMA]]** | Schema for mapping Canvas courses to local repos |
-| `1704103200000` | **[[1704103200000-AI-QUERY-LOG]]** | Log of AI interactions, results, and lessons learned |
+| Epoch ID        | Document                                        | Use Case                                                |
+| --------------- | ----------------------------------------------- | ------------------------------------------------------- |
+| `1704099600000` | **[[1704099600000-C-CLASS-EXTRACTION-SCHEMA]]** | Schema for mapping Canvas courses to local repos        |
+| `1704103200000` | **[[1704103200000-AI-QUERY-LOG]]**              | Log of AI interactions, results, and lessons learned    |
 | `1704106800000` | **[[1704106800000-CHATGPT-EXTRACTION-PROMPT]]** | Prompts for AI-assisted code extraction & consolidation |
 
 ---
@@ -78,8 +81,8 @@ Use when you need specific details:
 
 Documentation of decisions, discoveries, and changes:
 
-| Epoch ID | Document | Purpose |
-|----------|----------|---------|
+| Epoch ID        | Document                                   | Purpose                                                    |
+| --------------- | ------------------------------------------ | ---------------------------------------------------------- |
 | `1704110400000` | **[[1704110400000-SESSION-LOG-20251226]]** | Today's turning points, architecture decisions, milestones |
 
 ---
@@ -111,13 +114,16 @@ code-library/                    (eventually main repository)
 This repository follows Unix epoch millisecond ID organization:
 
 ### Epoch ID System
+
 Every guide gets a unique Unix epoch timestamp in milliseconds (since Jan 1, 1970):
+
 - **1704067200000** = Git Workflow (foundation)
 - **1704070800000** = Naming Conventions (follows naturally)
 - **1704074400000** = Code Library Organization
 - And so on, chronologically organized
 
 **Why Unix epoch?**
+
 - ✅ Universally unique across all repos and systems
 - ✅ Chronologically sortable
 - ✅ Reversible (convert back to readable dates)
@@ -125,11 +131,13 @@ Every guide gets a unique Unix epoch timestamp in milliseconds (since Jan 1, 197
 - ✅ Distributed (no central naming authority)
 
 ### Atomic & Linked Notes
+
 - Each guide solves **one problem or teaches one concept**
 - Guides are self-contained but heavily cross-linked
 - Every guide header shows related IDs for easy navigation
 
 ### Indexable
+
 See [ZETTELKASTEN-INDEX.md](ZETTELKASTEN-INDEX.md) for complete filing system with all 14+ guides mapped by epoch ID.
 
 **For AI Agents:** Use epoch IDs to navigate. Guides show related IDs in headers; follow them to discover connections. The index provides a complete map of all content.
@@ -139,11 +147,13 @@ See [ZETTELKASTEN-INDEX.md](ZETTELKASTEN-INDEX.md) for complete filing system wi
 ## 📌 Purpose & Philosophy
 
 **Purpose:** Reusable workflow documentation evolved from real consolidation work:
+
 - 681,662 code files organized by language and domain
 - 66 git repositories unified under coherent structure
 - Multiple learning platforms (freeCodeCamp, SMC, MIT) integrated into single library
 
 **Philosophy:**
+
 - Language-grouped repos for polyglot portfolios
 - One repo per course with projects as subdirectories
 - Commit per milestone (test passed, feature complete)
@@ -206,6 +216,7 @@ MIT - Use freely, adapt as needed
 ## Real-World Context
 
 These guides are based on actual consolidation work:
+
 - **681,662 code files** organized by language and domain
 - **66 git repositories** unified under coherent structure
 - **Multiple learning platforms** (freeCodeCamp, SMC, MIT) integrated into single library
@@ -220,7 +231,7 @@ code-library/                (eventually main repository)
 └── order/                   (archive - graduated projects)
     ├── c-intro-50-smc/     (repo: C course projects)
     ├── git-nano-castle-fcc/(repo: Bash/Nano tutorial)
-    └── copilot-dev-WfM/    
+    └── copilot-dev-WfM/
         ├── docs/           (this repo - reference docs)
         ├── scripts/        (utilities for production projects)
         └── [other projects]

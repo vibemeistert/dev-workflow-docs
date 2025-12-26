@@ -20,6 +20,7 @@ Obsidian-optimized knowledge base with epoch IDs leading for chronological sorti
 | `1704106800000` | [[1704106800000-CHATGPT-EXTRACTION-PROMPT]] | Reference | AI extraction prompts |
 | `1704110400000` | [[1704110400000-SESSION-LOG-20251226]] | Evidence | Dec 26, 2025 session documentation |
 | `1704114000000` | [[1704114000000-COPILOT-INSTRUCTIONS]] | Instructions | Copilot project instructions |
+| `1704120000000` | [[1704120000000-C-INTRO-PRODUCTION-STRUCTURE]] | Course | C-intro project structure & file legend |
 
 ---
 
@@ -129,7 +130,8 @@ Course-Specific Layer (C)
 ├─ 1704088800000 — C Course Quickstart
 ├─ 1704092400000 — C Course Session Context
 ├─ 1704096000000 — C Project Structure
-└─ 1704099600000 — C-Class Extraction Schema
+├─ 1704099600000 — C-Class Extraction Schema
+└─ 1704120000000 — C-Intro Production Structure (file legend & organization)
 
 Reference & AI Layer
 ├─ 1704103200000 — AI Query Log
