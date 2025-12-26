@@ -1,5 +1,7 @@
 # Code Library Consolidation Roadmap
 
+> **ID:** `1704085200000` | **Quick Version:** [[1704081600000-QUICK-CONSOLIDATION]] | **Foundation:** [[1704067200000-GIT-WORKFLOW]], [[1704074400000-CODE-LIBRARY-GUIDE]]
+
 This roadmap teaches you how to consolidate all code assets on your computer into a unified library, organized by language and domain. This is a **learn-by-doing** guide — each step is a command you run yourself.
 
 ## Phase 1: Global Code Audit (30 mins)

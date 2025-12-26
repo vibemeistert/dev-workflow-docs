@@ -1,3 +1,2 @@
-.DS_Store
-*.swp
-*~
+# docs-specific overrides (parent .gitignore at /code-library applies to all)
+# Only add overrides for patterns specific to this documentation repo

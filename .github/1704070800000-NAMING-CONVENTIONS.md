@@ -1,5 +1,7 @@
 # Naming Conventions & Code Standards
 
+> **ID:** `1704070800000` | **Foundation:** [[1704067200000-GIT-WORKFLOW]] | **Related:** [[1704074400000-CODE-LIBRARY-GUIDE]], [[1704078000000-GITIGNORE-HIERARCHY]]
+
 ## Repository & Folder Naming
 - **Repos**: `kebab-case` (example: `c-intro-50-csc`)
 - **Top-level project folders**: `kebab-case` for repos, `snake_case` for assignment folders (example: `assignments/001_case_area`)

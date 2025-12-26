@@ -1,5 +1,7 @@
 # C Course Repository Setup - Complete Guide
 
+> **ID:** `1704088800000` | **Session Context:** [[1704092400000-C-COURSE-SESSION-CONTEXT]] | **Project Structure:** [[1704096000000-C-PROJECT-STRUCTURE-GUIDE]] | **Extraction:** [[1704099600000-C-CLASS-EXTRACTION-SCHEMA]] | **Foundation:** [[1704067200000-GIT-WORKFLOW]]
+
 ## Authentication Setup
 
 ### Initial GitHub CLI Authentication

@@ -1,5 +1,7 @@
 # Code Library Organization Guide
 
+> **ID:** `1704074400000` | **Foundation:** [[1704067200000-GIT-WORKFLOW]] | **Related:** [[1704070800000-NAMING-CONVENTIONS]], [[1704078000000-GITIGNORE-HIERARCHY]] | **See Also:** [[1704085200000-CONSOLIDATION-ROADMAP]]
+
 ## Pre-Flight: System Library Cleanup
 
 Before organizing authored code, identify and remove regenerable system libraries:

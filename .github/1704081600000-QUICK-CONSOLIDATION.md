@@ -1,5 +1,7 @@
 # Quick Consolidation Checklist
 
+> **ID:** `1704081600000` | **Full Version:** [[1704085200000-CONSOLIDATION-ROADMAP]] | **Foundation:** [[1704067200000-GIT-WORKFLOW]], [[1704074400000-CODE-LIBRARY-GUIDE]]
+
 Use this after the global code audit completes.
 
 ## Step 1: Review Audit Results
