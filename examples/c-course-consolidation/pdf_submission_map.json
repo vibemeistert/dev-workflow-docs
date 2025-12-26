@@ -1,0 +1,106 @@
+{
+  "checkin": {
+    "pdfs": [
+      "assignments/00_checkIn/Abbott_Trev_CheckIn.pdf",
+      "assignments/00_checkIn/cs50CheckInAbbott10_31.pdf",
+      "assignments/00_checkIn/cs50CheckInAbbott10_31a..pdf"
+    ],
+    "type": "initial_checkin"
+  },
+  "homework_1": {
+    "pdfs": [
+      "completed_assignments/01_hw/1main.c.pdf",
+      "completed_assignments/01_hw/2main.c.pdf",
+      "completed_assignments/01_hw/3main.c.pdf",
+      "completed_assignments/01_hw/main.c.pdf",
+      "completed_assignments/01_hw/5main.c.pdf",
+      "completed_assignments/01_hw/6main.c.pdf"
+    ],
+    "type": "homework",
+    "problems": 6,
+    "rubric": "assignmentInstructions/Homework Project 1.pdf"
+  },
+  "quiz_1": {
+    "pdfs": [
+      "completed_assignments/01_quiz/main.c.pdf"
+    ],
+    "type": "quiz",
+    "rubric": "assignmentInstructions/tests/Quiz 1.pdf"
+  },
+  "homework_2": {
+    "pdfs": [],
+    "type": "homework",
+    "rubric": "assignmentInstructions/Homework Project 2.pdf",
+    "status": "MISSING - need to locate"
+  },
+  "homework_3_arrays": {
+    "pdfs": [
+      "vscode/untitled folder/03_hw_arrays.pdf",
+      "vscode/untitled folder/annotated-03_hw_arrays.pdf",
+      "vscode/untitled folder/conway1.pdf"
+    ],
+    "type": "homework",
+    "rubric": "assignmentInstructions/03_HW/Homework Project 3 - Arrays.pdf",
+    "reference": "assignments/03_hw/conway_life_book.pdf"
+  },
+  "quiz_2": {
+    "pdfs": [
+      "vscode/quiz2.pdf"
+    ],
+    "type": "quiz",
+    "rubric": "assignmentInstructions/tests/Quiz 2.pdf"
+  },
+  "homework_4_linked_lists": {
+    "pdfs": [],
+    "type": "homework",
+    "rubric": "assignmentInstructions/Homework Project 4 - Linked lists.pdf",
+    "status": "MISSING - need to locate"
+  },
+  "homework_5_bitcoin": {
+    "pdfs": [
+      "vscode/untitled folder/bitcoinSim.pdf"
+    ],
+    "type": "homework",
+    "rubric": "assignmentInstructions/Homework Project 5 - Bitcoin.pdf"
+  },
+  "homework_6_file_io": {
+    "pdfs": [],
+    "type": "homework",
+    "rubric": "assignmentInstructions/Homework Project 6 - File IO.pdf",
+    "status": "MISSING - need to locate"
+  },
+  "midterm": {
+    "pdfs": [],
+    "type": "exam",
+    "rubric": "assignmentInstructions/tests/Midterm.pdf",
+    "status": "MISSING - need to locate"
+  },
+  "final": {
+    "pdfs": [
+      "vscode/Problem1.pdf",
+      "vscode/Problem2.pdf",
+      "vscode/Problem3.pdf",
+      "vscode/Problem4.pdf",
+      "vscode/Problem5.pdf",
+      "vscode/Problem6.pdf",
+      "vscode/ Problem7.pdf",
+      "vscode/ Problem8.pdf",
+      "vscode/Problem9.pdf",
+      "vscode/Problem10.pdf",
+      "vscode/ Problem11.pdf",
+      "vscode/Problem12.pdf",
+      "vscode/problem13.pdf",
+      "vscode/problem14.pdf",
+      "vscode/problem15.pdf",
+      "vscode/problem16.pdf",
+      "vscode/problem17.pdf",
+      "vscode/problem18.pdf",
+      "vscode/Problem19.pdf",
+      "vscode/problem20.pdf",
+      "vscode/finalCS50.pdf",
+      "vscode/untitled folder/annotated-finalCS50.pdf"
+    ],
+    "type": "exam",
+    "problems": 20
+  }
+}

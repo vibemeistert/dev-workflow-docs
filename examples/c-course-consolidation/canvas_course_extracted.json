@@ -1,0 +1,3613 @@
+{
+  "course": {
+    "id": null,
+    "name": null,
+    "course_code": null,
+    "path": "/Volumes/Trev Media/driveBackUpTrev/99_archive/2025-Fall---CS-50-3361-9-16---Koenig---O--2025-Nov-09_21-08-05-303 2/viewer"
+  },
+  "modules": [
+    {
+      "id": 576402,
+      "name": "Welcome to CS50",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914294,
+          "title": "Advisory",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914295,
+          "title": "Drop/W Deadlines *",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914296,
+          "title": "Syllabus *",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914297,
+          "title": "General Expectations",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914298,
+          "title": "Zoom office hours *",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914299,
+          "title": "AI Policy",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576403,
+      "name": "Communications",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914300,
+          "title": "Instructor Contact",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914301,
+          "title": "Canvas Announcements",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914302,
+          "title": "Discord class chat *",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914303,
+          "title": "Discord (tour for beginners)",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576404,
+      "name": "Introduction to C and Computer Programming",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914304,
+          "title": "Readme and Setting up your IDE",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914305,
+          "title": "Tutoring Center",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914306,
+          "title": "Preparing and Submitting your Assignments",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914307,
+          "title": "Lecture - Preparing and Submitting your Assignments",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914308,
+          "title": "Class Notes - Preparing and Submitting your Assignments",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914309,
+          "title": "IDE of last resort",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914310,
+          "title": "History of C ",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914311,
+          "title": "Everything is 1's and 0's",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914312,
+          "title": "Safe C Library Functions",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914313,
+          "title": "Old School vs Safe",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576405,
+      "name": "CheckIn Hints",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914314,
+          "title": "Hello World",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576406,
+      "name": "Data Types, Variables, Basic Input-Output Operations",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914315,
+          "title": "Printf [HW1] (Recorded 6/30/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914316,
+          "title": "Lecture & Summary - printf ",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914317,
+          "title": "Class Notes - printf",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914318,
+          "title": "Binary (Recorded 6/30/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914319,
+          "title": "Lecture & Summary - Binary",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914320,
+          "title": "Class Notes - Binary",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914321,
+          "title": "Variables [HW1]  (Recorded 6/30/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914322,
+          "title": "Lecture  & Summary - Variables",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914323,
+          "title": "Class Notes - Variables",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914324,
+          "title": "Variables2 (Data types) (Recorded on 6/30/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914325,
+          "title": "Lecture & Summary - Variables2",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914326,
+          "title": "Class Notes - Variables2",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914327,
+          "title": "Type Casting (Recorded 6/30/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914328,
+          "title": "Lecture & Summary - Type Casting",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914329,
+          "title": "Class Notes - Type Casting",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914330,
+          "title": "Mini Strings (Recorded 6/30/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914331,
+          "title": "Lecture & Summary - String mini",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914332,
+          "title": "Class notes - String mini",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914333,
+          "title": "Mini scanf (Recorded on 6/30/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914334,
+          "title": "Lecture & Summary - mini scanf",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914335,
+          "title": "Class Notes - mini scanf",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914336,
+          "title": "scanf {HW1] (Recorded on 7/1/2025)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914337,
+          "title": "Lecture  & Summary - Scanf",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914338,
+          "title": "Class Notes - scanf",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914339,
+          "title": "Constants (Recorded 7/2/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914340,
+          "title": "Lecture & Summary - Constants",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914341,
+          "title": "Class Notes - Constants",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576407,
+      "name": "Operators and Precedence",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914342,
+          "title": "Char Problem (7/2/2025)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914343,
+          "title": "Lecture & Summary - Char Problem",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914344,
+          "title": "Class Notes - Char Problem",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914345,
+          "title": "Operators [HW1] (Recorded on 7/3/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914346,
+          "title": "Lecture & Summary - Operators",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914347,
+          "title": "Class Notes - Operators",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914348,
+          "title": "Bitwise",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914349,
+          "title": "Pre and Post  Increment (7/5/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914350,
+          "title": "Lecture & Summary - Pre & Post Example",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914351,
+          "title": "Class Notes - Pre & Post Example",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914352,
+          "title": "Lecture & Summary - Pre and Post Increment",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914353,
+          "title": "Class Notes - Pre and Post Increment",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914354,
+          "title": "Precedence Baby (7/5/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914355,
+          "title": "Lecture & Summary - Precedence Baby",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914356,
+          "title": "Class Notes - Precedence Baby",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        }
+      ]
+    },
+    {
+      "id": 576408,
+      "name": "HW #1 Hints",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914357,
+          "title": "HW #1 Hints",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914358,
+          "title": "Guarding",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914359,
+          "title": "stdlib-Math",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914360,
+          "title": "z-AbsoluteValue",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576409,
+      "name": "Branching and Looping",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914361,
+          "title": "if Statements [HW2] (Recorded 7/6/2025)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914362,
+          "title": "Lecture & Summary - If Statements",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914363,
+          "title": "Class Notes - If Statements",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914364,
+          "title": "For loops (Recorded 7/6/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914365,
+          "title": "Lectures & Summary - For loops",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914366,
+          "title": "Class Notes - For loops",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914367,
+          "title": "While loops (Recorded 7/8/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914368,
+          "title": "Lectures & Summary - While loops",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914369,
+          "title": "Class Notes - While loops",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914370,
+          "title": "Do while loops (Recorded 7/8/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914371,
+          "title": "Lectures & Summary",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914372,
+          "title": "Class Notes - Do while",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576410,
+      "name": "Logicals, Tally and Switch",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914373,
+          "title": "Logicals (Recorded on 7/9/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914374,
+          "title": "Lecture & Summary",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914375,
+          "title": "Class Notes",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914376,
+          "title": "Tally  (Recorded on 7/9/25 *)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914377,
+          "title": "Lecture & Summary Tally",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914378,
+          "title": "Class Notes - Tally",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914379,
+          "title": "Switch (Recorded 7/11/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914380,
+          "title": "Lecture & Summary - Switch",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914381,
+          "title": "Class Notes Switch",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        }
+      ]
+    },
+    {
+      "id": 576411,
+      "name": "HW 2 Hints",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914382,
+          "title": "Distance from 21 & Multiple counters",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914383,
+          "title": "z-Random",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914384,
+          "title": "z-RandomEample",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576412,
+      "name": "Procedures and Functions",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914385,
+          "title": "Procedures and Functions (Recorded 7/11/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914386,
+          "title": "Lecture & Summary - Procedures & Functions [HW3]",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914387,
+          "title": "Class Notes - Procedures & Functions",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914388,
+          "title": "By Value or By Reference",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914389,
+          "title": "Call by 1 (* Recorded 7/13/2025)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914390,
+          "title": "Lecture & Summary - Call by 1",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914391,
+          "title": "Class Notes - Call by 1",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914392,
+          "title": "Call by 2 Buy Sell (Recorded on 7/13/2025)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914393,
+          "title": "Lecture & Summary Buy Sell",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914394,
+          "title": "Class Notes - Buy Sell",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        }
+      ]
+    },
+    {
+      "id": 576413,
+      "name": "Arrays & Strings",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914395,
+          "title": "Arrays (Recorded on 7/14/2025)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914396,
+          "title": "Lecture & Summary  - Arrays",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914397,
+          "title": "Class Notes  - Arrays",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914398,
+          "title": "Strings",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914399,
+          "title": "String Fundamentals (Recorded 7/14/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914400,
+          "title": "Lecture & Summary - String Fudamentals",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914401,
+          "title": "Class Notes - String Fundamentals",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914402,
+          "title": "More String examples",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914403,
+          "title": "z-Strings",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914404,
+          "title": "z-Strings2",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914405,
+          "title": "Characters & Strings",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914406,
+          "title": "String Library Functions",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914407,
+          "title": "strcpy",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914408,
+          "title": "Class Notes - String library Functions",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914409,
+          "title": "2D baby (Recorded on 7/16/2025)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914410,
+          "title": "Lecture & Summary 2D baby",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914411,
+          "title": "Class Notes 2D baby",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914412,
+          "title": "Arrays 2D3D (Recorded 7/16/2025)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914413,
+          "title": "Lecture & Summary  - Arrays 2D3D",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914414,
+          "title": "Class Notes  - Arrays 2D3D",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576414,
+      "name": "HW #3  Array Hints",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914415,
+          "title": "UDLR Code [Use for  Part 2 of HW3]",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914416,
+          "title": "Class Notes - Arrays2Dbabydoors",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576415,
+      "name": "Making Menus and Splitting Strings (Recorded 7/16/25)",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914417,
+          "title": "Lecture & Summary - z-MenusNumeric",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914418,
+          "title": "Class Notes - z-MenusNumeric",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914419,
+          "title": "z-MenusScanf String menus (midterm) (Recorded * 7/18/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914420,
+          "title": "Lecture & Summary - z-MenusScanf ",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914421,
+          "title": "Class notes - z-menusScanf",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914422,
+          "title": "Split (*  7/18/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914423,
+          "title": "Split - Lecture and Summary",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914424,
+          "title": "Split Classnotes",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914425,
+          "title": "String Menu Example (Recorded on 7/20/25)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914426,
+          "title": "Lecture  & Summary - Stringmenu-example",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914427,
+          "title": "Classnotes - Stringmenu-example",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914428,
+          "title": "z-MenusTokenize",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914429,
+          "title": "Lecture & Summary - z-MenusTokenize",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914430,
+          "title": "Classnotes - z-MenusTokenize",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        }
+      ]
+    },
+    {
+      "id": 576416,
+      "name": "Midterm Hints",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914431,
+          "title": "Midterm Roadmap",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914432,
+          "title": "Midterm-background",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914433,
+          "title": "Ready Set Go",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914434,
+          "title": "z-Midterm-hints",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914435,
+          "title": "Shuffles and Cheating",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914436,
+          "title": "Lecture & Summary - Scramble the horses",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914437,
+          "title": "Class Notes - Scramble the horses",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914438,
+          "title": "Fisher-Yates aka Knuth Shuffle",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914439,
+          "title": "Free MoveIt String menu",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914440,
+          "title": "Classnotes - Free moveIt menu",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914441,
+          "title": "Lecture & Summary - Free moveIt menu",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914442,
+          "title": "z-Scanfgets",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576417,
+      "name": "Pointers & Structures & Linked Lists",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914443,
+          "title": "Pointers",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914444,
+          "title": "Lecture  & Summary - Pointers baby",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914445,
+          "title": "Class Notes - Pointers baby",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914446,
+          "title": "Structures",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914447,
+          "title": "Lecture  & Summary - Structures1-intro",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914448,
+          "title": "Class Notes - Structures1-intro",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914449,
+          "title": "Lecture  & Summary - Structures2A-pointers",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914450,
+          "title": "Class Notes - Structures2A-pointers",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914451,
+          "title": "Lecture & Summary - Structures2B-why",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914452,
+          "title": "Class Notes - Structures2B-why",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914453,
+          "title": "Lecture & Summary - Asterisk",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914454,
+          "title": "Class Notes - Asterisk",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914455,
+          "title": "z-Structures",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914456,
+          "title": "TypeDef",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914457,
+          "title": "Lecture & Summary - Structures2-typedef",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914458,
+          "title": "Class Notes - Structures2-typedef",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914459,
+          "title": "Class Notes - Typedef-typedef ptr",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914460,
+          "title": "Lecture & Summary - Typedef-typedef ptr",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914461,
+          "title": "Array of Structures",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914462,
+          "title": "Lecture & Summary - Structures4-arrayOf",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914463,
+          "title": "Class Notes - Structures4-arrayOf",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914464,
+          "title": "Lecture & Summary - z-pointersArrayBump",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914465,
+          "title": "Class notes - z-pointersArrayBump",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914466,
+          "title": "Review",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914467,
+          "title": "Structures Review",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914468,
+          "title": "Linked Lists",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914469,
+          "title": "Lecture & Summary - z-Linkedlist",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914470,
+          "title": "Class Notes - z-Linkedlist",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914471,
+          "title": "Lecture & Summary - z-Linkedlist-demo2",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914472,
+          "title": "CLass Notes - z-Linkedlist-demo2",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914473,
+          "title": "Lecture & Summary - Double Pointers",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914474,
+          "title": "Class Notes - Double Pointers",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914475,
+          "title": "z-LinedlistDel",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576418,
+      "name": "HW #4 Hints (Linked Lists)",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914476,
+          "title": "z-linkedlist demo",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914477,
+          "title": "linkedlist-demo2",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576419,
+      "name": "Quiz #2 Hints",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914478,
+          "title": "Warning",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914479,
+          "title": "Lecture & Summary - Structures5-Quiz2",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914480,
+          "title": "Structures5-Quiz2",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576420,
+      "name": "Dates",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914481,
+          "title": "Lecture & Summary - Dates",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914482,
+          "title": "Class Notes - Dates",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576421,
+      "name": "Bitcoin Module [HW5]",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914483,
+          "title": "Methods Outline",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914484,
+          "title": "Bitcoin Program Details",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914485,
+          "title": "Menu Implementation of a Numeric (choice based) Menu",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914486,
+          "title": "Getting Date and Time",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914487,
+          "title": "A simple list of strings",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914488,
+          "title": "Lecture & Summary - Array of vs List of Strings",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914489,
+          "title": "Class Notes - Array vs List of Strings",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914490,
+          "title": "Volvo - Creating  a Transaction String",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914491,
+          "title": "Lecture - zHistory Transaction String Explanation",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914492,
+          "title": "Class Notes - z-History",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914493,
+          "title": "Lecture & Summary - Volco Creating a Transaction Strings",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914494,
+          "title": "Class Notes - Volvo Creating a Transaction String",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914495,
+          "title": "Foozball (A linked list of Transactions)",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914496,
+          "title": "Lecture - Foozball",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914497,
+          "title": "Class Notes - Ledger Example with Linked List (Foozball example):",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914498,
+          "title": "Better ways to store Transactions",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914499,
+          "title": "Using double pointers",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914500,
+          "title": "Lecture  & Summary - Using double ptrs",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914501,
+          "title": "Class notes - Using double ptrs",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914502,
+          "title": "Using double pointers in a Structure",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 1
+        },
+        {
+          "id": 4914503,
+          "title": "Lecture  & Summary - Using double ptrs and Struct",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        },
+        {
+          "id": 4914504,
+          "title": "Class notes - Using double ptrs and Struct",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 2
+        }
+      ]
+    },
+    {
+      "id": 576422,
+      "name": "HW #5 Hints (Bitcoin)",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914505,
+          "title": "Bitcoin Roadmap",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914506,
+          "title": "z-Bitcoin-intro",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914507,
+          "title": "Putting Transaction Strings into a List/Ledger",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914508,
+          "title": "Passing a ledger around",
+          "type": "ContextModuleSubHeader",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914509,
+          "title": "Summary & Lecture - Create & pass a wallet hockey puck",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914510,
+          "title": "Class notes - Create & pass a wallet",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576423,
+      "name": "File IO",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914511,
+          "title": "Lecture & Summary - z-FileIO",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914512,
+          "title": "Class Notes - z-FileIO",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914513,
+          "title": "Lecture & Summary - z-FileIO2",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914514,
+          "title": "Class Notes - z-FileIO2",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        },
+        {
+          "id": 4914515,
+          "title": "Header Files",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    },
+    {
+      "id": 576424,
+      "name": "HW #6 Hints - File IO",
+      "position": null,
+      "unlock_at": null,
+      "items": [
+        {
+          "id": 4914516,
+          "title": "File I/O with CSV and Linked Lists",
+          "type": "WikiPage",
+          "position": null,
+          "indent": 0
+        }
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-10-31T23:59:00-07:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-11-02T23:00:00-08:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-11-10T23:59:00-08:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-11-18T23:59:00-08:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-12-10T23:59:00-08:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-12-10T23:59:00-08:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-12-10T23:59:00-08:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-11-24T23:59:00-08:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-12-12T23:59:00-08:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-11-05T23:59:00-08:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "name": null,
+      "due_at": "2025-11-23T23:59:00-08:00",
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 100.0,
+      "graded": true,
+      "submission_types": "a file upload",
+      "description_html": "",
+      "description_text": "",
+      "code_blocks": []
+    }
+  ],
+  "pages": [
+    {
+      "id": null,
+      "title": "Advisory",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "AI Policy",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Bitcoin Program Details",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Bitcoin Roadmap",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Bitwise",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Canvas Announcements",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Characters & Strings",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes 2D baby",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Array vs List of Strings",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes  - Arrays 2D3D",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes  - Arrays",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Arrays2Dbabydoors",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Asterisk",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Binary",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Buy Sell",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Call by 1",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Char Problem",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Constants",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class notes - Create & pass a wallet",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Dates",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Do while",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Double Pointers",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - For loops",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - If Statements",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Ledger Example with Linked List (Foozball example):",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - mini scanf",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Operators",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Pointers baby",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Pre & Post Example",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Pre and Post Increment",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Precedence Baby",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Preparing and Submitting your Assignments",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - printf",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Procedures & Functions",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - scanf",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Scramble the horses",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - String Fundamentals",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - String library Functions",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class notes - String mini",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Structures1-intro",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Structures2-typedef",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Structures2A-pointers",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Structures2B-why",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Structures4-arrayOf",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes Switch",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Tally",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Type Casting",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Typedef-typedef ptr",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class notes - Using double ptrs and Struct",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class notes - Using double ptrs",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Variables",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Variables2",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - Volvo Creating a Transaction String",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - While loops",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - z-FileIO",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - z-FileIO2",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - z-History",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "CLass Notes - z-Linkedlist-demo2",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - z-Linkedlist",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class Notes - z-MenusNumeric",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class notes - z-menusScanf",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Class notes - z-pointersArrayBump",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Classnotes - Free moveIt menu",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Classnotes - Stringmenu-example",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Classnotes - z-MenusTokenize",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Discord class chat *",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Discord (tour for beginners)",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Distance from 21 & Multiple counters",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Drop/W Deadlines *",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Everything is 1's and 0's",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "File I/O with CSV and Linked Lists",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Fisher-Yates aka Knuth Shuffle",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "General Expectations",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Getting Date and Time",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Guarding",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Header Files",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Hello World",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "History of C ",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "HW #1 Hints",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "IDE of last resort",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Instructor Contact",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary 2D baby",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Array of vs List of Strings",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary  - Arrays 2D3D",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary  - Arrays",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Asterisk",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Binary",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary Buy Sell",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Call by 1",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Char Problem",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Constants",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Dates",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Double Pointers",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Free moveIt menu",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - If Statements",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - mini scanf",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Operators",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture  & Summary - Pointers baby",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Pre & Post Example",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Pre and Post Increment",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Precedence Baby",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - printf ",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Procedures & Functions [HW3]",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture  & Summary - Scanf",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Scramble the horses",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - String Fudamentals",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - String mini",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture  & Summary - Stringmenu-example",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture  & Summary - Structures1-intro",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Structures2-typedef",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture  & Summary - Structures2A-pointers",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Structures2B-why",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Structures4-arrayOf",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Structures5-Quiz2",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Switch",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary Tally",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Type Casting",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Typedef-typedef ptr",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture  & Summary - Using double ptrs and Struct",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture  & Summary - Using double ptrs",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture  & Summary - Variables",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Variables2",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - Volco Creating a Transaction Strings",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - z-FileIO",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - z-FileIO2",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - z-Linkedlist-demo2",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - z-Linkedlist",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - z-MenusNumeric",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - z-MenusScanf ",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - z-MenusTokenize",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture & Summary - z-pointersArrayBump",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture - Foozball",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture - Preparing and Submitting your Assignments",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lecture - zHistory Transaction String Explanation",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lectures & Summary",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lectures & Summary - For loops",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Lectures & Summary - While loops",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "linkedlist-demo2",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Menu Implementation of a Numeric (choice based) Menu",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Methods Outline",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Midterm-background",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Midterm Roadmap",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Old School vs Safe",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Putting Transaction Strings into a List/Ledger",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Readme and Setting up your IDE",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Ready Set Go",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Split Classnotes",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Split - Lecture and Summary",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "stdlib-Math",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "strcpy",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Structures Review",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Structures5-Quiz2",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Summary & Lecture - Create & pass a wallet hockey puck",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Syllabus *",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Tutoring Center",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "UDLR Code [Use for  Part 2 of HW3]",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Warning",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-AbsoluteValue",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-Bitcoin-intro",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-LinedlistDel",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-linkedlist demo",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-Midterm-hints",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-Random",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-RandomEample",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-Scanfgets",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-Strings",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-Strings2",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "z-Structures",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    },
+    {
+      "id": null,
+      "title": "Zoom office hours *",
+      "url": null,
+      "created_at": null,
+      "updated_at": null,
+      "body_html": "",
+      "body_text": "",
+      "code_blocks": []
+    }
+  ],
+  "files": []
+}

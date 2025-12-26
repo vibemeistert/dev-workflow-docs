@@ -1,0 +1,270 @@
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/00_checkIn/src/hello.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/01_case_area/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/02_tic_tac_shmoe/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/03_triangle_area/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/04_miles_to_kilometers/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/05_my_initials/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/06_up_it/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/1103/practice.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/charProblem/charProblemExmpls.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/src/charProblemExmpls.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/01_name/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/practice/practice.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/prob2Fifty/fifty.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/src/charProblemExmpls.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/02_fifty/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/03_absolute/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/04_random/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/05_free_choice/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/05_free_choice/x_y_distance/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/06_voltage/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/07_name_count/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/08_fifty_tally/src/fifty_tally.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/charProblemExmpls.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/01_ticket_discount/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/02_do_i_have_enough/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/03_did_i_fail_ifelse/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/03b_did_i_fail_switch/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/04_how_low/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/05_guessing_game copy/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/05_guessing_game/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/06_guessing_game_loop copy/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/06_guessing_game_loop/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_quiz/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/.vscode/mid2/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/.vscode/mid2/mid3/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/004b/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/005_hw/bitcoin_simulator/bit/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/005_hw/bitcoin_simulator/draft2/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/005_hw/bitcoin_simulator/draft2/test2/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/005_hw/bitcoin_simulator/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/006_hw/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/007_HW/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/03_arrays_conway/03_HW/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/03_arrays_conway/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/03_arrays_conway/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/03_hw/2ndDraft/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/03_hw/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/header_file/myList.h
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/source_file/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/source_file/myList.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/assignemt7/source-files/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/001/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/002/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/003/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/004/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/005/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/006/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/007/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/008/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/009/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/010/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/010/src/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/011/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/012/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/013/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/014/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/015/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/016/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/017/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/018/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/019/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/020/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/functions/race.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/midterm/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/midterm/mid4/main.c
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/tools/pair.sh
+/System/Volumes/Data/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/HorseRaceEntries/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/source_file/main.c
+/System/Volumes/Data/Volumes/Trev Media/10_codeLibrary/C_++/50_CSc/assignments/assignemt7/source-files/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/00_checkIn/src/hello.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/01_case_area/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/02_tic_tac_shmoe/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/03_triangle_area/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/04_miles_to_kilometers/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/05_my_initials/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/06_up_it/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/1103/practice.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/charProblem/charProblemExmpls.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/src/charProblemExmpls.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/01_name/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/practice/practice.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/prob2Fifty/fifty.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/src/charProblemExmpls.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/02_fifty/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/03_absolute/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/04_random/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/05_free_choice/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/05_free_choice/x_y_distance/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/06_voltage/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/07_name_count/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/08_fifty_tally/src/fifty_tally.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/charProblemExmpls.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/01_ticket_discount/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/02_do_i_have_enough/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/03_did_i_fail_ifelse/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/03b_did_i_fail_switch/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/04_how_low/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/05_guessing_game copy/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/05_guessing_game/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/06_guessing_game_loop copy/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/06_guessing_game_loop/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/.vscode/mid2/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/.vscode/mid2/mid3/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/005_hw/bitcoin_simulator/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/006_hw/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/03_hw/2ndDraft/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/03_hw/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/header_file/myList.h
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/source_file/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/source_file/myList.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/assignemt7/source-files/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/functions/race.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/midterm/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/midterm/mid4/main.c
+/System/Volumes/Data/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/tools/pair.sh
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/00_checkIn/src/hello.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/01_case_area/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/02_tic_tac_shmoe/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/03_triangle_area/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/04_miles_to_kilometers/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/05_my_initials/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/06_up_it/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/1103/practice.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/charProblem/charProblemExmpls.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/src/charProblemExmpls.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/01_name/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/practice/practice.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/prob2Fifty/fifty.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/src/charProblemExmpls.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/02_fifty/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/03_absolute/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/04_random/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/05_free_choice/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/05_free_choice/x_y_distance/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/06_voltage/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/07_name_count/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/08_fifty_tally/src/fifty_tally.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/charProblemExmpls.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/01_ticket_discount/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/02_do_i_have_enough/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/03_did_i_fail_ifelse/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/03b_did_i_fail_switch/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/04_how_low/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/05_guessing_game copy/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/05_guessing_game/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/06_guessing_game_loop copy/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/06_guessing_game_loop/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/002_quiz/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/.vscode/mid2/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/.vscode/mid2/mid3/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/004b/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/005_hw/bitcoin_simulator/bit/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/005_hw/bitcoin_simulator/draft2/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/005_hw/bitcoin_simulator/draft2/test2/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/005_hw/bitcoin_simulator/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/006_hw/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/007_HW/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/03_arrays_conway/03_HW/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/03_arrays_conway/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/03_arrays_conway/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/03_hw/2ndDraft/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/03_hw/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/header_file/myList.h
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/source_file/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/source_file/myList.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/assignemt7/source-files/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/001/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/002/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/003/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/004/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/005/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/006/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/007/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/008/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/009/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/010/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/010/src/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/011/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/012/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/013/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/014/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/015/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/016/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/017/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/018/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/019/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/final/020/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/functions/race.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/midterm/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/midterm/mid4/main.c
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/assignments/tools/pair.sh
+/Users/trevabbott/bayFamilyVault/schoolMediaTrev/10_codeLibrary/C_++/50_CSc/HorseRaceEntries/src/main.c
+/Volumes/Trev Media/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/source_file/main.c
+/Volumes/Trev Media/10_codeLibrary/C_++/50_CSc/assignments/assignemt7/source-files/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/00_checkIn/src/hello.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/01_case_area/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/02_tic_tac_shmoe/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/03_triangle_area/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/04_miles_to_kilometers/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/05_my_initials/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/06_up_it/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/1103/practice.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/charProblem/charProblemExmpls.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/src/charProblemExmpls.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_hw/examplesHW1/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/01_name/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/practice/practice.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/prob2Fifty/fifty.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/src/charProblemExmpls.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/010/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/02_fifty/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/03_absolute/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/04_random/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/05_free_choice/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/05_free_choice/x_y_distance/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/06_voltage/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/07_name_count/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/08_fifty_tally/src/fifty_tally.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/001_quiz/charProblemExmpls.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/01_ticket_discount/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/02_do_i_have_enough/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/03_did_i_fail_ifelse/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/03b_did_i_fail_switch/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/04_how_low/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/05_guessing_game copy/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/05_guessing_game/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/06_guessing_game_loop copy/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/002_hw/06_guessing_game_loop/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/.vscode/mid2/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/.vscode/mid2/mid3/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/004a_midterm/src/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/005_hw/bitcoin_simulator/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/006_hw/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/03_hw/2ndDraft/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/03_hw/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/header_file/myList.h
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/source_file/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/04_hw/01_video/source_file/myList.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/assignemt7/source-files/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/functions/race.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/midterm/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/test/tests/midterm/mid4/main.c
+/Volumes/Trev Media/driveBackUpTrev/10_codeLibrary/C_++/50_CSc/assignments/tools/pair.sh
