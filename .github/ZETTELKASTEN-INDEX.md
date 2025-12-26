@@ -21,6 +21,7 @@ Obsidian-optimized knowledge base with epoch IDs leading for chronological sorti
 | `1704110400000` | [[1704110400000-SESSION-LOG-20251226]] | Evidence | Dec 26, 2025 session documentation |
 | `1704114000000` | [[1704114000000-COPILOT-INSTRUCTIONS]] | Instructions | Copilot project instructions |
 | `1704120000000` | [[1704120000000-C-INTRO-PRODUCTION-STRUCTURE]] | Course | C-intro project structure & file legend |
+| `1704121200000` | [[1704121200000-SESSION-RECOVERY-LOG]] | Evidence | Dec 26 recovery & reconstruction procedures |
 
 ---
 
@@ -139,7 +140,8 @@ Reference & AI Layer
 
 Evidence & Sessions
 ├─ 1704110400000 — Session Log Dec 26, 2025
-└─ 1704114000000 — Copilot Instructions
+├─ 1704114000000 — Copilot Instructions
+└─ 1704121200000 — Session Recovery Log (reconstruction procedures)
 ```
 
 ---
